@@ -1,0 +1,14 @@
+{
+  "name": "testing_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "testcafe chrome spec/*.test.*"
+  },
+  "author": "Vitalii Pylypets",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.7.1"
+  }
+}
